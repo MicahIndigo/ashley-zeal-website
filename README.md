@@ -41,5 +41,23 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
 * As a user, I want clear, intuitive navigation.
 * As a user, I want the content to be accessible for people with additional needs.
 
-## Goals and Objectives of the Websitee
+## Goals and Objectives of the Website
+
+* Provide users with entertainment whilst keeping up to date with Ashley Zeal's current events and music.
+* Include or provide access to all of Ashley Zeal's discography.
+* Provide accurate content.
+* Easy-to-use and easy to navigate to cater for different audiences.
+* Invite users to use booking/contact form to book Ashley Zeal for events.
+* Intergrate accessibility features for user with additional needs.
+* Increase overall website traffic by increasing rankings on search engine.
+
+## Target Audience
+
+* Fans of Ashley Zeal
+* Music enthusiasts
+* Music Industry professionals
+* Casual users
+[Back to Top](#contents)
+
+## Wireframes
 
