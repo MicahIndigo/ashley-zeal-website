@@ -32,5 +32,14 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
 
 ## User Stories
 
-* As a user, I would like to be able to view new releases and listen to them.
-* 
+* As a user, I want to be able to view new releases and listen to them.
+* As a user, I want to be able to contact/book Ashley Zeal for events.
+* As a user, I want to be able to view content from events Ashley Zeal has performed at.
+* As a user, I want to be able to learn more about what inspires Ashley's music and his story.
+* As a user, I want to be able to use the website on different devices.
+* As a user, I want Ashley Zeal's social handles to keep up to date with social media posts.
+* As a user, I want clear, intuitive navigation.
+* As a user, I want the content to be accessible for people with additional needs.
+
+## Goals and Objectives of the Websitee
+
