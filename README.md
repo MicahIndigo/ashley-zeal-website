@@ -4,10 +4,10 @@ Ashley Zeal is a landing page that aims to expand Ashley Zeals online presence a
 
 The purpose of this landing page is to expand Ashley Zeal's online presence while maintaing a professional theme and maintaining and easy-to-navigate/easy-to-use page for users.
 
-[Contents](#contents)
+## Contents
 * [User Goals](#user-goals)
 * [User Stories](#user-stories)
-* [Goals & Objectives of website](#website-goals-objectives)
+* [Goals & Objectives of website](#-goals-and-objectives-of-the-website)
 * [Wireframes](#wireframes)
 * [Design](#design)
   + [Typography](#typography)
@@ -56,15 +56,16 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
 * Fans of Ashley Zeal
 * Music enthusiasts
 * Music Industry professionals
-* Casual users
+* Casual users 
+
 [Back to Top](#contents)
 
 ## Wireframes
 
 The wireframes are designed using Balsamiq tool. I will follow best practices and design mobile first, then tablet and lastly desktop/laptop display. It is a one page website to enhance logical flow.
 
-[Mobile Wireframe]()
-[Tablet Wireframe]()
-[Desktop Wireframe]()
+[Mobile Wireframe](docs/mobile-wireframe.pdf)
+[Tablet Wireframe](docs/tablet-wireframe.pdf)
+[Desktop Wireframe](docs/desktop-wireframe.pdf) 
 
 [Back to Top](#contents)
