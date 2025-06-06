@@ -64,8 +64,16 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
 
 The wireframes are designed using Balsamiq tool. I will follow best practices and design mobile first, then tablet and lastly desktop/laptop display. It is a one page website to enhance logical flow.
 
-[Mobile Wireframe](docs/mobile-wireframe.pdf)
-[Tablet Wireframe](docs/tablet-wireframe.pdf)
-[Desktop Wireframe](docs/desktop-wireframe.pdf) 
+* [Mobile Wireframe](docs/mobile-wireframe.pdf) 
+* [Tablet Wireframe](docs/tablet-wireframe.pdf) 
+* [Desktop Wireframe](docs/desktop-wireframe.pdf) 
 
 [Back to Top](#contents)
+
+## Design
+
+### Typography
+
+I have chosen two font-families to use for Ashley Zeal's website. The first font-family I chose [Baumans](https://fonts.google.com/specimen/Baumans). It is a sans-serif font with an geometric, Artistic feel. I picked Baumans as the primary font I will be using for headings and buttons as it is a clean, stylish and easy-to-read font making it ideal to use for web design.  
+  
+The second font-family I have chosen to use is 
