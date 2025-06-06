@@ -41,6 +41,8 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
 * As a user, I want clear, intuitive navigation.
 * As a user, I want the content to be accessible for people with additional needs.
 
+[Back to Top](#contents)
+
 ## Goals and Objectives of the Website
 
 * Provide users with entertainment whilst keeping up to date with Ashley Zeal's current events and music.
@@ -87,3 +89,11 @@ The colour scheme was chosen based off images used throughout the site and colou
 I have also used [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contrast Grid") to help decide a visually appealing combination.  
 
 ![Contrast Grid](docs/contrast-grid.png)
+
+| CSS Name                 | HEX       | Comment                                                                       |
+| ------------------------ | --------- | ----------------------------------------------------------------------------- |
+|   --platinum             | #EAE6E5 |  Font colour for paragraph or caption like text and card background           |
+|   --silver-lake-blue     | #7392B7 |  Button colour                                                                |
+|   --chrysler-blue        | #0000E1 |  Highlight colour                                                             |
+|   --tigers-eye           | #B66D0D |  Font colour for headings and titles                                          |
+|   --night                | #0A090C |  Background colour of the site                                                |
