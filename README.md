@@ -82,4 +82,8 @@ The second font-family I have chosen to use is [Savate](https://fonts.google.com
 
 The colour scheme was chosen based off images used throughout the site and colours commonly associated with rnb and soul music, (two genre's of music Ashley Zeal is known for).
   
-![colour scheme](docs/colour-scheme.png)
+![colour scheme](docs/colour-scheme.png)  
+
+I have also used [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contrast Grid") to help decide a visually appealing combination.  
+
+![Contrast Grid](docs/contrast-grid.png)
