@@ -77,3 +77,9 @@ The wireframes are designed using Balsamiq tool. I will follow best practices an
 I have chosen two font-families to use for Ashley Zeal's website. The first font-family I chose [Baumans](https://fonts.google.com/specimen/Baumans). It is a sans-serif font with an geometric, Artistic feel. I picked Baumans as the primary font I will be using for headings and buttons as it is a clean, stylish and easy-to-read font making it ideal to use for web design.  
   
 The second font-family I have chosen to use is [Savate](https://fonts.google.com/specimen/Savate). I chose this font to use for text like paragraphs or captions. It is also a sans-serif type font however, it has a more expressive,  cursive style whilst maintaining being easy-to-read making it ideal to use in web design.
+
+### Colour Scheme
+
+The colour scheme was chosen based off images used throughout the site and colours commonly associated with rnb and soul music, (two genre's of music Ashley Zeal is known for).
+  
+![colour scheme](docs/colour-scheme.png)
