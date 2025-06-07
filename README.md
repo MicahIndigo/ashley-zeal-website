@@ -17,11 +17,11 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
   +  [Responsiveness](#responsiveness)
 - [Features](#features)
   * [Existing Features](#existing-features)
-    + [Header Navbar](#header-navbar)
+    + [Header and Navbar](#header-and-navbar)
     + [Discography](#discography)
     + [Gallery](#gallery)
     + [Biography](#biography)
-    + [Footer](#footer)
+    + [Footer and Contact](#footer-and-contact)
   * [Future Updates](#future-updates)
 
 ## User Goals
@@ -134,4 +134,10 @@ Ashley Zeal's webpage will have a discography section that will contain a spotif
 #### Gallery
 
 Ashley Zeal's webpage will have a gallery section(see images below). It will contain a carousel (slideshow component) using [Bootstrap](https://getbootstrap.com/docs/5.3) and a media player also using Bootstrap for users to view.
+
+#### Biography
+
+Ashley Zeal webpage will have a biography section (see images below). It will just contain Ashley Zeal's logo and a paragraph element for users to read Ashley Zeal's biography.
+
+#### Footer and Contact
 
