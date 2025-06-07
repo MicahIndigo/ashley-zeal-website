@@ -125,5 +125,11 @@ I will keep the layout of the site minimalistic and simple, whilst using intuiti
 
 #### Header Navbar
 
-Ashley Zeal's webpage will have a header that will be reponsive to device sizes.(see images below)
+Ashley Zeal's webpage will have a header that will be reponsive to device sizes (see images below). It will contain links to biography section, gallery section, discography section and contact section and will direct users to their desired section of the site onclick.
+
+#### Discography
+
+Ashley Zeal's webpage will have a discography section that will contain a spotify player so users can listen to music (see images below). The player will invite users to follow Ashley Zeal on spotify and provide users with a link to the song on spotify. I will also include links to other digital streaming platforms for users who don't possess a spotify account.
+
+#### Gallery
 
