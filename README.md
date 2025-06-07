@@ -12,12 +12,12 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
 * [Design](#design)
   + [Typography](#typography)
   + [Colour Scheme](#colour-scheme)
-  + [Images/video](#images-video)
+  + [Images video](#images-video)
   * [Audio](#audio)
   +  [Responsiveness](#responsiveness)
 - [Features](#features)
   * [Existing Features](#existing-features)
-    + [Header](#header)
+    + [Header Navbar](#header-navbar)
     + [Discography](#discography)
     + [Gallery](#gallery)
     + [Biography](#biography)
@@ -120,4 +120,10 @@ Ashley Zeal's website will be responsive to different screen sizes depending wha
 ## Features
 
 I will keep the layout of the site minimalistic and simple, whilst using intuitive navigation to make the site easy to use. I will also adhere to best practices when formatting and styling the site. Users will be easily able to navigate the different sections of the site using the navbar. Users will be able to use the spotify player to listen to Ashley Zeal's music. I will also include a video player and an image carousel on the gallery for users to view. I have included these interactive features to increase user engagement throughout the site.
+
+### Existing features
+
+#### Header Navbar
+
+Ashley Zeal's webpage will have a header that will be reponsive to device sizes.(see images below)
 
