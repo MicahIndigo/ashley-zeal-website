@@ -176,3 +176,9 @@ Ashley Zeal's webpage will have a footer section (see images below). It will con
 
 [Back to Top](#contents)
 
+## Technologies Used
+
+### Languages
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
