@@ -182,3 +182,18 @@ Ashley Zeal's webpage will have a footer section (see images below). It will con
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Libraries and Framework
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Google fonts](https://fonts.google.com/)
+- [Favicon](https://favicon.io/favicon-converter/)
+- [Font Awesome](https://fontawesome.com/)
+
+### Tools
+
+- [Github](https://github.com/)
+- [Balsamiq](https://balsamiq.com/wireframes/)
+- [HTML Validation](https://validator.w3.org/)
+- [CSS Validation](https://jigsaw.w3.org/css-validator/)
+- [Image Resize](https://www.iloveimg.com/)
