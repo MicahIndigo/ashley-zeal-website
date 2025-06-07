@@ -197,3 +197,49 @@ Ashley Zeal's webpage will have a footer section (see images below). It will con
 - [HTML Validation](https://validator.w3.org/)
 - [CSS Validation](https://jigsaw.w3.org/css-validator/)
 - [Image Resize](https://www.iloveimg.com/)
+
+[Back to Top](#contents)
+
+## Testing
+
+### Bugs Fixed
+
+### Responsiveness Tests
+
+### Code Validation
+#### HTML
+#### CSS
+
+### User Story Testing
+
+### Features Testing
+
+### Accessibility Testing
+
+### Lighthouse Testing
+
+### Browser Testing
+
+## Deployment
+
+### Deploy Project
+
+I will deploy Ashley Zeal website early on in the web design process using Github pages via the steps below:
+
+1. Navigate to repository on Github and click **Settings**.
+2. Once in settings, select **Pages** in the side navigation.
+3. In the none dropdown, select **Main**.
+4. Click on **Save** button.
+5. The website is now live at
+
+*Any changes required for the website, can be made, comitted and pushed to Github.*
+
+[Back to Top](#contents)
+
+### Fork Project
+
+
+
+### Clone Project
+
+## Credits
