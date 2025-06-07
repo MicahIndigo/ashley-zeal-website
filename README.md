@@ -150,3 +150,8 @@ Ashley Zeal's webpage will have a footer section (see images below). It will con
 
 ### Future Updates
 
+* Sticky music player so users can enjoy Ashley Zeal's music while browsing the site.
+* A section for users to buy merch and tickets to events.
+* A section for users to sign up and enter name and email to receive updates and promotional content directly from Ashley Zeal whilst providing Ashley Zeal to engage with users.
+
+[Back to Top](#contents)
