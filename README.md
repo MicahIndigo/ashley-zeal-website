@@ -24,6 +24,26 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
     + [Contact Form](#contact-form)
     + [Footer and socials](#footer-and-socials)
   * [Future Updates](#future-updates)
+- [Technologies Used](#technologies-used)
+  * [Languages](#languages)
+  * [Libraries and Framework](#libraries-and-framework)
+  * [Tools](#tools)
+- [Testing](#testing)
+  * [Bugs fixed](#bugs-fixed)
+  * [Responsiveness Tests](#responsiveness-tests)
+  * [Code Validation](#code-validation)
+    + [HTML](#html)
+    + [CSS](#css)
+  * [User Story Testing](#user-story-testing)
+  * [Features Testing](#features-testing)
+  * [Accessibility Testing](#accessibility-testing)
+  * [Lighthouse Testing](#lighthouse-testing)
+  * [Browser Testing](#browser-testing)
+- [Deployment](#deployment)
+  * [Deploy Project](#deploy-project)
+  * [Fork Project](#fork-projet)
+  * [Clone Project](#clone-project)
+- [Credits](#credits)
 
 ## User Goals
 
@@ -45,7 +65,7 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
 
 [Back to Top](#contents)
 
-## Goals and Objectives of the Website
+## Goals & Objectives of Website
 
 * Provide users with entertainment whilst keeping up to date with Ashley Zeal's current events and music.
 * Include or provide access to all of Ashley Zeal's discography.
@@ -102,7 +122,7 @@ I have also used [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contras
 
 [Back to Top](#contents)
 
-### Images/video
+### Images video
 
 Ashley Zeal has provided images and videos he would like to include on the website. The images has a mix of professional studio shots and performace shots. The video is a performance of Ashley singing at an event.
 
@@ -124,7 +144,7 @@ I will keep the layout of the site minimalistic and simple, whilst using intuiti
 
 ### Existing features
 
-#### Header Navbar
+#### Header and Navbar
 
 Ashley Zeal's webpage will have a header that will be reponsive to device sizes (see images below). It will contain links to biography section, gallery section, discography section and contact section and will direct users to their desired section of the site onclick.
 
@@ -155,3 +175,4 @@ Ashley Zeal's webpage will have a footer section (see images below). It will con
 * A section for users to sign up and enter name and email to receive updates and promotional content directly from Ashley Zeal whilst providing Ashley Zeal to engage with users.
 
 [Back to Top](#contents)
+
