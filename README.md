@@ -13,6 +13,7 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
   + [Typography](#typography)
   + [Colour Scheme](#colour-scheme)
   + [Images/video](#images-video)
+  * [Audio](#audio)
   +  [Responsiveness](#responsiveness)
 - [Features](#features)
   * [Existing Features](#existing-features)
@@ -97,3 +98,13 @@ I have also used [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contras
 |   --chrysler-blue        | #0000E1 |  Highlight colour                                                             |
 |   --tigers-eye           | #B66D0D |  Font colour for headings and titles                                          |
 |   --night                | #0A090C |  Background colour of the site                                                |
+
+[Back to Top](#contents)
+
+### Images/video
+
+Ashley Zeal has provided images and videos he would like to include on the website. The images has a mix of professional studio shots and performace shots. The video is a performance of Ashley singing at an event.
+
+### Audio
+
+I will embed spotify player into the discography page where users are able to play Ashley Zeals music and also be invited to follow him on spotify and/or copy song links.
