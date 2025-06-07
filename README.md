@@ -95,7 +95,7 @@ I have also used [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contras
 | ------------------------ | --------- | ----------------------------------------------------------------------------- |
 |   --platinum             | #EAE6E5 |  Font colour for paragraph or caption like text and card background           |
 |   --silver-lake-blue     | #7392B7 |  Button colour                                                                |
-|   --chrysler-blue        | #0000E1 |  Highlight colour                                                             |
+|   --chrysler-blue        | #0000E1 |  Highlight colour, button text colour                                         |
 |   --tigers-eye           | #B66D0D |  Font colour for headings and titles                                          |
 |   --night                | #0A090C |  Background colour of the site                                                |
 
@@ -107,4 +107,10 @@ Ashley Zeal has provided images and videos he would like to include on the websi
 
 ### Audio
 
-I will embed spotify player into the discography page where users are able to play Ashley Zeals music and also be invited to follow him on spotify and/or copy song links.
+I will embed spotify player into the discography page where users are able to play Ashley Zeal's music and also be invited to follow him on spotify and/or copy song links.
+
+### Responsiveness
+
+Ashley Zeal's website will be responsive to different screen sizes depending what device the user is viewing the site on. This will allow users to view site as intended. I will use CSS media queries to achieve this and I will use breakpoints from Bootstrap (See image below). 
+
+![Bootstrap breakpoints](docs/breakpoints.png)
