@@ -238,8 +238,16 @@ I will deploy Ashley Zeal website early on in the web design process using Githu
 
 ### Fork Project
 
+Forking the Github repository allows you to duplicate the local repository so changes/modifications can be made to the duplicate repository without compromising the original repository.
 
+1. Login to **Github**
+2. Locate the repository.
+3. Click to open it.
+4. Locate the **fork** button on the **right** side of the mennu.
+5. To copy the repository to your Github account, **click** button.
 
 ### Clone Project
+
+1. 
 
 ## Credits
