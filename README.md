@@ -248,6 +248,14 @@ Forking the Github repository allows you to duplicate the local repository so ch
 
 ### Clone Project
 
-1. 
+1. Login to **Github**.
+2. Navigate to **Main** page of repository and click **Code**.
+3. **Copy URL** of repository.
+4. Open your **IDE**.
+5. Change current working directory to location you want the cloned directory.
+6. Type Git clone and then paste the URL you copied earlier.
+7. Press **Enter** to create your local clone.
+
+[Back to Top](#contents)
 
 ## Credits
