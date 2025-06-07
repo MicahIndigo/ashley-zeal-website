@@ -21,7 +21,8 @@ The purpose of this landing page is to expand Ashley Zeal's online presence whil
     + [Discography](#discography)
     + [Gallery](#gallery)
     + [Biography](#biography)
-    + [Footer and Contact](#footer-and-contact)
+    + [Contact Form](#contact-form)
+    + [Footer and socials](#footer-and-socials)
   * [Future Updates](#future-updates)
 
 ## User Goals
@@ -139,5 +140,13 @@ Ashley Zeal's webpage will have a gallery section(see images below). It will con
 
 Ashley Zeal webpage will have a biography section (see images below). It will just contain Ashley Zeal's logo and a paragraph element for users to read Ashley Zeal's biography.
 
-#### Footer and Contact
+### Contact Form
+
+Ashley Zeal's webpage will have a contact form section for users to book Ashley Zeal for events (see images below). I will use [Bootstrap](https://getbootstrap.com/docs/5.3) for the form. On completion of the form users will be directed to a success page (see image below) to notify them the form has been completed and sent successfully.
+
+#### Footer and Socials
+
+Ashley Zeal's webpage will have a footer section (see images below). It will contain favicons that will direct users to Ashley Zeal's social media profiles when clicked.
+
+### Future Updates
 
