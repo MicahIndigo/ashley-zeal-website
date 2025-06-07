@@ -107,10 +107,17 @@ Ashley Zeal has provided images and videos he would like to include on the websi
 
 ### Audio
 
-I will embed spotify player into the discography page where users are able to play Ashley Zeal's music and also be invited to follow him on spotify and/or copy song links.
+I will embed spotify player into the discography section where users are able to play Ashley Zeal's music and also be invited to follow him on spotify and/or copy song links.
 
 ### Responsiveness
 
 Ashley Zeal's website will be responsive to different screen sizes depending what device the user is viewing the site on. This will allow users to view site as intended. I will use CSS media queries to achieve this and I will use breakpoints from Bootstrap (See image below). 
 
-![Bootstrap breakpoints](docs/breakpoints.png)
+![Bootstrap breakpoints](docs/breakpoints.png)  
+
+[Back to Top](#contents)
+
+## Features
+
+I will keep the layout of the site minimalistic and simple, whilst using intuitive navigation to make the site easy to use. I will also adhere to best practices when formatting and styling the site. Users will be easily able to navigate the different sections of the site using the navbar. Users will be able to use the spotify player to listen to Ashley Zeal's music. I will also include a video player and an image carousel on the gallery for users to view. I have included these interactive features to increase user engagement throughout the site.
+
