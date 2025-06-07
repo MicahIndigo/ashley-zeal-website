@@ -133,3 +133,5 @@ Ashley Zeal's webpage will have a discography section that will contain a spotif
 
 #### Gallery
 
+Ashley Zeal's webpage will have a gallery section(see images below). It will contain a carousel (slideshow component) using [Bootstrap](https://getbootstrap.com/docs/5.3) and a media player also using Bootstrap for users to view.
+
