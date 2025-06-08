@@ -146,7 +146,7 @@ I will keep the layout of the site minimalistic and simple, whilst using intuiti
 
 #### Header and Navbar
 
-Ashley Zeal's webpage will have a header that will be reponsive to device sizes (see images below). It will contain links to biography section, gallery section, discography section and contact section and will direct users to their desired section of the site onclick.
+Ashley Zeal's webpage will have a header and navbar that will be reponsive to device sizes (see images below). It will contain links to biography section, gallery section, discography section and contact section and will direct users to their desired section of the site onclick.
 
 #### Discography
 
