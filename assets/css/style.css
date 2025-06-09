@@ -42,3 +42,8 @@ h2 {
 #heading-style .navbar-brand {
     color: var(--primary-color) !important;
 }
+
+/* Change background of navbar */
+#heading-style.bg-body-tertiary {
+    background-color: var(--secondary-color) !important;
+}
