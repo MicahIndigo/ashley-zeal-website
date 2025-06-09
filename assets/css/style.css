@@ -13,3 +13,32 @@
     --highlight-color: #0000E1; /* Chrysler blue */
     --highlight-color-light: #7392B7; /* Silver lake blue */
 }
+
+/* Global Styles */
+
+body { 
+    background-color: var(--background-color);
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+}
+
+#heading-style {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+    size: 1.2rem;
+}
+
+h1,
+h2 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+
+/* Navbar Styles */
+
+/* Apply color to all navbar text */
+#heading-style,
+#heading-style .navbar-nav .nav-link,
+#heading-style .navbar-brand {
+    color: var(--primary-color) !important;
+}
