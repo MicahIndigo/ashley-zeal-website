@@ -64,3 +64,34 @@ h2 {
 main {
     margin-top: 200px;
 }
+
+/* Biography Section Styles */
+.biography-content img {
+    width: 100%;
+    height: auto;
+}
+
+.biography-content p {
+    margin-top: 10px
+}
+
+/* Media Queries */
+/* Adjust styles for different screen sizes */
+
+/* Medium devices (tablets 768px and up */
+@media (min-width: 768px) {
+    .biography-content {
+        display:flex;
+        flex-direction: row;
+        align-items: flex-start;
+    }
+    .biography-paragraph {
+        margin-left: 20px;
+    }
+
+    .biography-content img {
+        width: 40%;
+        margin: 100px 0 90px 0;
+    }
+    
+}
