@@ -20,7 +20,7 @@ body {
   background-color: var(--background-color);
   font-family: var(--secondary-font);
   color: var(--secondary-color);
-  padding-top: 100px;
+  /*padding-top: 100px;*/
 }
 
 #heading-style {
@@ -57,4 +57,10 @@ h2 {
 .navbar-brand img {
   width: 100px;
   height: auto;
+}
+
+/* Main section styles */
+
+main {
+    margin-top: 200px;
 }
