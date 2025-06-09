@@ -23,8 +23,8 @@ body {
 }
 
 #heading-style {
-    font-family: var(--heading-font);
-    color: var(--primary-color);
+    font-family: var(--heading-font) !important;
+    color: var(--primary-color) !important;
     size: 1.2rem;
 }
 
@@ -37,13 +37,14 @@ h2 {
 /* Navbar Styles */
 
 /* Apply color to all navbar text */
-#heading-style,
-#heading-style .navbar-nav .nav-link,
-#heading-style .navbar-brand {
+#nav-bar,
+#nav-bar .navbar-nav .nav-link,
+#nav-bar .navbar-brand {
     color: var(--primary-color) !important;
+    font-family: var(--heading-font)
 }
 
 /* Change background of navbar */
-#heading-style.bg-body-tertiary {
+#nav-bar.bg-body-tertiary {
     background-color: var(--secondary-color) !important;
 }
