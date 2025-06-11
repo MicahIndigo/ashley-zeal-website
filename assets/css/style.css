@@ -94,12 +94,9 @@ main {
  }
 
  #discography,
- #discography .discography-player,
- #discography .discography-player p {
+ #discography .discography-content,
+ #discography .discography-content p {
     margin-top: 35px;
- }
- .discography-player {
-    margin-left: -20px
  }
 
  .discography-links {
@@ -126,5 +123,11 @@ main {
     .biography-content img {
         width: 40%;
         margin: 100px 0 90px 0;
-    }    
+    }
+    
+    /* Discography Section Styles */
+    .spotify-player {
+        width: 50rem;
+        height: %;
+    }
 }
