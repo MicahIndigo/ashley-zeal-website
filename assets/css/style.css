@@ -101,7 +101,10 @@ main {
 
  .discography-links {
     display: flex;
-    flex: row;
+    flex-direction: row;
+    gap: 25px; /* Space between links */
+    flex-wrap: wrap;
+    margin-top: 10px;
  }
 
 /* Media Queries */
@@ -128,6 +131,13 @@ main {
     /* Discography Section Styles */
     .spotify-player {
         width: 50rem;
-        height: %;
+    }
+}
+
+/* Large devices (desktops 992px and up) */
+@media (min-width: 992px) {
+    /* Discography Section Styles */
+    .spotify-player {
+        width: 50rem;
     }
 }
