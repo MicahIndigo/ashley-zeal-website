@@ -39,6 +39,18 @@ h4 {
   text-align: center;
 }
 
+/* Heder Styles */
+#hero {
+  background-image: url("../images/ashley-zeal-pro-headshot-2.jpeg");
+  width: 100%;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: block;
+}
+
+
 /* Navbar Styles */
 
 /* Navbar text styles */
