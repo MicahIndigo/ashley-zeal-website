@@ -137,6 +137,10 @@ main {
   display:block; /* Ensures images are displayed as block elements */
 }
 
+.gallery-video {
+  margin-top: 150px;
+}
+
 /* Media Queries */
 /* Adjust styles for different screen sizes */
 
