@@ -18,7 +18,9 @@
 
 body {
   background-color: var(--background-color); /* Sets the background color */
-  font-family: var(--secondary-font); /* Sets the secondary font as default font for the body */
+  font-family: var(
+    --secondary-font
+  ); /* Sets the secondary font as default font for the body */
   color: var(--secondary-color); /* Sets the text color */
 }
 
@@ -44,8 +46,8 @@ h4 {
 #nav-bar .navbar-nav .nav-link,
 #nav-bar .navbar-brand {
   color: var(--primary-color) !important; /* Apply color to all navbar text */
-  font-family: var(--heading-font);/* Apply heading font to navbar text */
-  font-size: 1.75rem;/* Set font size for navbar text */
+  font-family: var(--heading-font); /* Apply heading font to navbar text */
+  font-size: 1.75rem; /* Set font size for navbar text */
   margin-bottom: -25px; /* Adjusts the spacing between navbar items */
   text-transform: uppercase; /* Makes navbar text uppercase */
 }
@@ -113,12 +115,26 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-height: 700px; /* slightly larger than carousel for stability */
   margin-top: 200px; /* Adds space above the gallery section */
   margin-bottom: 100px; /* Adds space below the gallery section */
 }
 /* Gallery Images */
 .gallery-carousel {
   margin-top: 50px; /* Adds space above the gallery carousel */
+}
+
+.carousel-inner {
+  height: 600px; /* Sets a fixed height for the carousel */
+}
+.carousel-item {
+  height: 100%; /* Ensures each carousel item takes full height */
+}
+.carousel-item img {
+  width: 100%; /* Makes images responsive */
+  height: 100%; /* Ensures images fill the carousel item */
+  object-fit: cover; /* Maintains aspect ratio while covering the area */
+  display:block; /* Ensures images are displayed as block elements */
 }
 
 /* Media Queries */
