@@ -141,6 +141,18 @@ main {
   margin-top: 150px;
 }
 
+/* Contact Section Styles */
+.form-container {
+  max-width: 600px;
+  margin: 0 auto; /* Centers the form */
+}
+
+.booking-form {
+  width: 100%;
+  display: block;
+  border: none;
+}
+
 /* Media Queries */
 /* Adjust styles for different screen sizes */
 
