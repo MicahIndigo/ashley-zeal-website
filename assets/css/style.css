@@ -17,9 +17,9 @@
 /* Global Styles */
 
 body {
-  background-color: var(--background-color);
-  font-family: var(--secondary-font);
-  color: var(--secondary-color);
+  background-color: var(--background-color); /* Sets the background color */
+  font-family: var(--secondary-font); /* Sets the secondary font as default font for the body */
+  color: var(--secondary-color); /* Sets the text color */
 }
 
 #heading-style {
@@ -63,81 +63,84 @@ h4 {
 /* Main section styles */
 
 main {
-    margin-top: 200px;
+  margin-top: 200px;
 }
 
 /* Biography Section Styles */
 
 #biography {
-    margin-bottom: 100px;
+  margin-bottom: 100px; /* Adds space below the biography section */
 }
 
+/* Biography Content Styles */
 .biography-content img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 .biography-content p {
-    margin-top: 40px;
-    margin-bottom: 40px;
-    font-size: 1.2rem;
+  margin-top: 40px; /* Adds space between the image and the first paragraph */
+  margin-bottom: 40px; /* Adds space between the last paragraph and the next section */
+  font-size: 1.2rem;
 }
 
- /* discography Section Styles */
- #discography {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
+/* discography Section Styles */
+#discography {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
 
- }
+#discography,
+#discography .discography-content,
+#discography .discography-content p {
+  margin-top: 35px; /* Adds space between the discography title and content */
+}
 
- #discography,
- #discography .discography-content,
- #discography .discography-content p {
-    margin-top: 35px;
- }
-
- .discography-links {
-    display: flex;
-    flex-direction: row;
-    gap: 25px; /* Space between links */
-    flex-wrap: wrap;
-    margin-top: 10px;
- }
+.discography-links {
+  display: flex;
+  flex-direction: row;
+  gap: 25px; /* Space between links */
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
 
 /* Media Queries */
 /* Adjust styles for different screen sizes */
 
 /* Medium devices (tablets 768px and up */
 @media (min-width: 768px) {
+  /* Biography Section Styles */
+  .biography-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  /* Moves the biography paragraphs to the right */
+  .biography-paragraph {
+    margin-left: 20px;
+  }
 
-    /* Biography Section Styles */
-    .biography-content {
-        display:flex;
-        flex-direction: row;
-        align-items: flex-start;
-    }
-    .biography-paragraph {
-        margin-left: 20px;
-    }
+  /* Adjusts the image size and position */
+  .biography-content img {
+    width: 40%;
+    margin: 100px 0 90px 0;
+  }
 
-    .biography-content img {
-        width: 40%;
-        margin: 100px 0 90px 0;
-    }
-    
-    /* Discography Section Styles */
-    .spotify-player {
-        width: 50rem;
-    }
+  /* Discography Section Styles */
+  /* Adjusts the discography section to be more responsive */
+  .spotify-player {
+    width: 50rem;
+  }
 }
 
 /* Large devices (desktops 992px and up) */
 @media (min-width: 992px) {
-    /* Discography Section Styles */
-    .spotify-player {
-        width: 50rem;
-    }
+  /* Discography Section Styles */
+  /* Adjusts the discography section to be more responsive */
+  .spotify-player {
+    width: 50rem;
+  }
 }
