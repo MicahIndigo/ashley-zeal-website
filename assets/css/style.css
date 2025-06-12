@@ -44,9 +44,10 @@ h4 {
 #nav-bar .navbar-nav .nav-link,
 #nav-bar .navbar-brand {
   color: var(--primary-color) !important; /* Apply color to all navbar text */
-  font-family: var(--heading-font);
-  font-size: 1.75rem;
-  margin-bottom: -25px;
+  font-family: var(--heading-font);/* Apply heading font to navbar text */
+  font-size: 1.75rem;/* Set font size for navbar text */
+  margin-bottom: -25px; /* Adjusts the spacing between navbar items */
+  text-transform: uppercase; /* Makes navbar text uppercase */
 }
 
 /* Change background of navbar */
