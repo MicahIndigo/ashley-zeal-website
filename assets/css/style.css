@@ -141,6 +141,12 @@ main {
   margin-top: 150px;
 }
 
+.youtube-player {
+  display: flex;
+  justify-content: center; /* Centers the YouTube player */
+  margin: 50px 0; /* Adds space above and below the YouTube player */
+}
+
 /* Contact Section Styles */
 .form-container {
   max-width: 600px;
@@ -185,9 +191,20 @@ main {
   #gallery {
     min-height: 500px; /* Adjusts the height of carousel */
   }
+
+  .gallery-carousel {
+    max-width: 600px;
+    margin: 0 auto; /* Centers the gallery carousel */
+  }
   
   .carousel-inner {
-    height: 450px
+    height: 450px;
+  }
+
+  .carousel-inner .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
   }
 }
 
