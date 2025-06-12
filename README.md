@@ -237,6 +237,10 @@ Final Test Results:
 
 ### Accessibility Testing
 
+I have used web accessibility evaluation tool [WAVE Tool](https://wave.webaim.org/) which helps to determine if web content is accessible to individuals with diverse needs. No issues were raised.
+
+![WAVE](docs/screenshot-wave-tool.png)
+
 ### Lighthouse Testing
 
 ### Browser Testing
