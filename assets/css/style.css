@@ -164,6 +164,15 @@ main {
   .spotify-player {
     width: 50rem;
   }
+
+  /* Gallery Section Styles */
+  #gallery {
+    min-height: 500px; /* Adjusts the height of carousel */
+  }
+  
+  .carousel-inner {
+    height: 450px
+  }
 }
 
 /* Large devices (desktops 992px and up) */
@@ -172,5 +181,13 @@ main {
   /* Adjusts the discography section to be more responsive */
   .spotify-player {
     width: 50rem;
+  }
+
+  /* Gallery Section Styles */
+  #gallery {
+    min-height: 600px; /* Adjusts the height of carousel */
+  }
+  .carousel-inner {
+    height: 500px;
   }
 }
