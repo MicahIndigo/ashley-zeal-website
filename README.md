@@ -240,6 +240,13 @@ I have used [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML") 
 
 #### CSS
 
+CSS code for the webpage was validated on [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS Validator"). It returned no errors.
+
+* CSS:
+![W3CCSS Validator](docs/screenshot-w3-css-validation.png "Validator Results")
+
+[Back to top](#contents)
+
 ### User Story Testing
 
 ### Features Testing

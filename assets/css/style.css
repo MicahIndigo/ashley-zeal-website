@@ -27,7 +27,7 @@ body {
 #heading-style {
   font-family: var(--heading-font) !important;
   color: var(--primary-color) !important;
-  size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 h1,
