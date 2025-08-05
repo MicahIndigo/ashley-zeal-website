@@ -229,6 +229,15 @@ Final Test Results:
 
 #### HTML
 
+
+I have used [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML") to validate and test my html file, it came back with no errors.
+
+* HTML Page:
+![W3CHTML Validator](docs/screenshot-w3-html-validation.png "Validator Results")
+
+[Back to top](#contents)
+
+
 #### CSS
 
 ### User Story Testing
